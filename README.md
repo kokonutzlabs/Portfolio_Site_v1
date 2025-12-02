@@ -1,11 +1,6 @@
 # Personal-Portfolio
-Hey,
-I have been trying to learn coding since 2019, but I had no idea how to actually learn it. I was just memorizing, and with so much syntax to learn, it was inefficient. In 2022 I took a C++ class and loved 
-it, but I still didn’t really learn how coding works. Then last year, instead of studying, I just did and made my own website. Even though I used other scripts and help, I did start to learn how coding 
-works.
-
-Then I took a Business Programming I course this past summer for Python, and since it’s widely used, I took time to actually figure out how it works, and finally understod coding. This helped me to not only further understand HTML/CSS but other coding languages as well. This site, by the way, is like the fifth version, so there’s that. It was supposed to be more professional, but that was hindering my creativity, so now I’m working on a new one that really fits 
-me.
+Hello,
+Last year I saw people coding their own sites and thought it was cool. Initially, I figured that since I knew C++ as a beginner, it would be easier to understand—because coding is coding, right? No, it was not the same at all, and CSS was (and still is) the most challenging thing in my opinion when it comes to coding. At first, I had to use premade scripts, but after making a site several times, I finally got the hang of it and was able to make this site by myself. Yes, I have sources listed, but I don’t remember all of the syntax—honestly, I don’t know who would.
 ###### **I am constantly coming up with different ways to change my site, so enjoy the latest version!**
 ## Programs Used:
 - VS Code

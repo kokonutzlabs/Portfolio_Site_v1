@@ -1,7 +1,6 @@
-# Portfolio.HTML
-Hello,
-
-This is just a fun project to understand how HTML, CSS, and Javascript work for web development.
+# Portfolio Website (HTML/CSS/Javascript)
+**Overview** 
+This project was independently developed to gain a fundamental understanding of front-end web development. The goal was to build practical experience with HTML, CSS, Javascript in prepartion for a future project incorporating SQL and PHP. Arelated project can be viewed in the Projects section of this portfolio.
 ## Programs Used:
 - VS Code
 ## Languages Used:

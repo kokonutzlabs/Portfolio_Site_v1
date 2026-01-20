@@ -6,20 +6,20 @@ This project was independently developed to gain a fundamental understanding of 
     - HTML
     - CSS
     - Javascript
-## Languages Used:
-- HTML
-- CSS
-- Javascript
-## Sources Used:
+## **Resources Refrenced:**
 - [W3Schools](https://www.w3schools.com/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
-## Live Demo 
-[Portfolio](https://kokonutzlabs.github.io/Portfolio_Site_v1/)
-## Other Option to View my Project:
-1. Get VS Code
-2. Download the Live Preview Extension
-3. Once it's downloded, right click the HTML site and choose open live preview
-## Updates
+## **Live Demo:**
+- [Portfolio](https://www.w3schools.com/)
+## **Alternative Method to View the Project Locally**
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+## **Future Improvements**
 I am constantly coming up with different ways to change my site, so enjoy the latest version! 11/6/2025
 
 

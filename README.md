@@ -1,8 +1,11 @@
 # Portfolio Website (HTML/CSS/Javascript)
-**Overview** 
 This project was independently developed to gain a fundamental understanding of front-end web development. The goal was to build practical experience with HTML, CSS, Javascript in prepartion for a future project incorporating SQL and PHP. Arelated project can be viewed in the Projects section of this portfolio.
-## Programs Used:
-- VS Code
+## **Tools and Technologies**
+- **Code Editior:**  Visual Studio Code
+- **Languages:** 
+    - HTML
+    - CSS
+    - Javascript
 ## Languages Used:
 - HTML
 - CSS

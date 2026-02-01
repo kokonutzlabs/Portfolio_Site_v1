@@ -10,7 +10,8 @@ This project was independently developed to gain a fundamental understanding of 
 - [W3Schools](https://www.w3schools.com/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 ## **Live Demo:**
-- [PortfolioSite.html](https://kokonutzlabs.github.io/Portfolio-Website-HTML-CSS-Javascript-/)
+- [PortfolioSite.html](https://raw.githack.com/kokonutzlabs/Portfolio-Website-HTML-CSS-Javascript-/main/portfolio/index/index.html)
+  
 ## **Alternative Method to View the Project Locally**
 1. Download all project files and folders.
 2. Place all downloaded files into a single directory.

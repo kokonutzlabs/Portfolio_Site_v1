@@ -1,5 +1,5 @@
 # Portfolio Website (HTML/CSS/Javascript)
-This project was independently developed to gain a fundamental understanding of front-end web development. The goal was to build practical experience with HTML, CSS, Javascript in preparation for a future project incorporating SQL and PHP. Arelated project can be viewed in the Projects section of this portfolio.
+This project was independently developed to gain a fundamental understanding of front-end web development. The goal was to build practical experience with HTML, CSS, Javascript in preparation for a future project incorporating SQL and PHP. A related project can be viewed in my Repositories: Animal Crossing Social Portal.
 ## **Tools and Technologies**
 - **Code Editor:**  Visual Studio Code
 - **Languages:** 
